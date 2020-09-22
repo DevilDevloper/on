@@ -7,7 +7,7 @@ html,body{
 .p1{
   position: relative;
   height: 100%;
-  background-image: https://images.app.goo.gl/yTTmEpFLgZMjmVXd7;
+  background-image: url(https://images.app.goo.gl/yTTmEpFLgZMjmVXd7);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
