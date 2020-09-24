@@ -16,7 +16,7 @@ html,body{
 .p2{
   position: relative;
   height: 100%;
-  background-image: url(background[1].png);
+  background-image: url();
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -25,7 +25,7 @@ html,body{
 .p3{
   position: relative;
   height: 100%;
-  background-image: url(background[1].png);
+  background-image: url();
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
