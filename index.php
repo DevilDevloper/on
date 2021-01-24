@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-   
-    
-    <title>Full Landing Page</title>
-  </head>
-  <body>
+
 <?php
 
 echo "Welcome to do while loops <br>";
@@ -15,5 +8,3 @@ do{
     $i++;
 }while($i<5);
 ?>  
-</body>
-</html>
